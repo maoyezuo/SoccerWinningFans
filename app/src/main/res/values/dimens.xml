@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">26dp</dimen>
+    <dimen name="activity_vertical_margin">26dp</dimen>
+    <dimen name="user_name_horizontal_margin">26dp</dimen>
+    <dimen name="user_name_vertical_margin">80dp</dimen>
+    <dimen name="user_psw_horizontal_margin">26dp</dimen>
+    <dimen name="user_psw_vertical_margin">130dp</dimen>
+
+</resources>
