@@ -1,6 +1,17 @@
 <resources>
     <string name="app_name">Soccer Winning Fans</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">主界面</string>
+    <string name="title_transfer">转会市场</string>
+    <string name="title_me">钱包</string>
+    <string name="login_name_text">ID</string>
+    <string name="login_psw_text">PW</string>
+    <string name="login_name_input_text">账号|邮箱|手机号</string>
+    <string name="login_psw_input_text">密码</string>
+
+
+    <string name="register_name_text">ID</string>
+    <string name="register_psw_text">PW</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="REGISTER">REGISTER</string>
+
 </resources>

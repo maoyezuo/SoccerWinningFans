@@ -2,9 +2,21 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">26dp</dimen>
     <dimen name="activity_vertical_margin">26dp</dimen>
-    <dimen name="user_name_horizontal_margin">26dp</dimen>
+    <dimen name="user_name_horizontal_margin">100dp</dimen>
     <dimen name="user_name_vertical_margin">80dp</dimen>
-    <dimen name="user_psw_horizontal_margin">26dp</dimen>
+    <dimen name="user_psw_horizontal_margin">100dp</dimen>
     <dimen name="user_psw_vertical_margin">130dp</dimen>
+    <dimen name="login_horizontal_margin">164dp</dimen>
+    <dimen name="login_vertical_margin">180dp</dimen>
+    <dimen name="login_caption_name_horizontal_margin">52dp</dimen>
+    <dimen name="login_caption_name_vertical_margin">216dp</dimen>
+    <dimen name="login_caption_psw_horizontal_margin">52dp</dimen>
+    <dimen name="login_caption_psw_vertical_margin">279dp</dimen>
+    <dimen name="login_input_name_vertical_margin">200dp</dimen>
+    <dimen name="login_input_psw_vertical_margin">264dp</dimen>
+    <dimen name="login_loginBtn_vertical_margin">312dp</dimen>
+    <dimen name="login_registerBtn_vertical_margin">464dp</dimen>
+    <dimen name="game_start_vertical_margin">26dp</dimen>
+
 
 </resources>
